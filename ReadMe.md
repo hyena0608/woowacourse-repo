@@ -4,6 +4,7 @@
 
 | Project | Period | Repository | Pull Request & Review |
 |:-----:|:-----:|:---:|:---:|
+|자동차 경주 <br> 2단계|`2022-02-10` ~ `2022-02-13`|[repository 2](https://github.com/hyena0608/java-racingcar/tree/hyena0608-step02)|[pull request 2](https://github.com/woowacourse/java-racingcar/pull/584)|
 |자동차 경주 <br> 1단계|`2022-02-07` ~ `2022-02-09`|[repository 1](https://github.com/hyena0608/java-racingcar/tree/hyena0608-step01)|[pull request 1](https://github.com/woowacourse/java-racingcar/pull/469#discussion_r1103546750)|
 
 <br/>
