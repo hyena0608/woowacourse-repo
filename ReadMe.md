@@ -5,8 +5,8 @@
 | Project | Period | Repository | Pull Request & Review | 회고 |
 |:-----:|:-----:|:---:|:---:|:---:|
 |체스 <br> 1단계|`2022-03-14` ~ `2022-03-16`|[repository 1](https://github.com/hyena0608/java-chess/tree/step1)|[pull request 1](https://github.com/woowacourse/java-chess/pull/495)|[회고 1]()
-|블랙잭 <br> 2단계|`2022-03-10` ~ `2022-03-20`|[repository 2](https://github.com/hyena0608/java-blackjack/tree/step02)|[pull request 2](https://github.com/woowacourse/java-blackjack/pull/506)|[회고 2]()
-|블랙잭 <br> 1단계|`2022-03-07` ~ `2022-03-09`|[repository 1](https://github.com/hyena0608/java-blackjack/tree/step01)|[pull request 1](https://github.com/woowacourse/java-blackjack/pull/441)|[회고 1](https://programming-hyena.tistory.com/12)
+|블랙잭 <br> 2단계|`2022-03-04` ~ `2022-03-13`|[repository 2](https://github.com/hyena0608/java-blackjack/tree/step02)|[pull request 2](https://github.com/woowacourse/java-blackjack/pull/506)|[회고 2]()
+|블랙잭 <br> 1단계|`2022-02-28` ~ `2022-03-03`|[repository 1](https://github.com/hyena0608/java-blackjack/tree/step01)|[pull request 1](https://github.com/woowacourse/java-blackjack/pull/441)|[회고 1](https://programming-hyena.tistory.com/12)
 |사다리 타기 <br> 2단계|`2022-02-17` ~ `2022-02-27`|[repository 2](https://github.com/hyena0608/java-ladder/tree/hyena0608-step02)|[pull request 2](https://github.com/woowacourse/java-ladder/pull/161)|[회고 2](https://programming-hyena.tistory.com/6)
 |사다리 타기 <br> 1단계|`2022-02-14` ~ `2022-02-16`|[repository 1](https://github.com/hyena0608/java-ladder/tree/hyena0608-step01)|[pull request 1](https://github.com/woowacourse/java-ladder/pull/133)|[회고 1](https://programming-hyena.tistory.com/5)
 |자동차 경주 <br> 2단계|`2022-02-10` ~ `2022-02-13`|[repository 2](https://github.com/hyena0608/java-racingcar/tree/hyena0608-step02)|[pull request 2](https://github.com/woowacourse/java-racingcar/pull/584)|[회고](https://programming-hyena.tistory.com/4)
