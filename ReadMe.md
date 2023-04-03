@@ -12,7 +12,7 @@
 |:-----:|:-----:|:---:|:---:|:---:|
 |체스 <br> 2단계|`2023-03-17` ~ `2023-03-27`|[repository 2](https://github.com/hyena0608/java-chess/tree/step2)|[pull request 2](https://github.com/woowacourse/java-chess/pull/584)|[회고 2](https://programming-hyena.tistory.com/29)
 |체스 <br> 1단계|`2023-03-14` ~ `2023-03-16`|[repository 1](https://github.com/hyena0608/java-chess/tree/step1)|[pull request 1](https://github.com/woowacourse/java-chess/pull/495)|[회고 1](https://programming-hyena.tistory.com/29)
-|블랙잭 <br> 2단계|`2023-03-04` ~ `2023-03-13`|[repository 2](https://github.com/hyena0608/java-blackjack/tree/step02)|[pull request 2](https://github.com/woowacourse/java-blackjack/pull/506)|[회고 2]()
+|블랙잭 <br> 2단계|`2023-03-04` ~ `2023-03-13`|[repository 2](https://github.com/hyena0608/java-blackjack/tree/step02)|[pull request 2](https://github.com/woowacourse/java-blackjack/pull/506)|[회고 2](https://programming-hyena.tistory.com/28)
 |블랙잭 <br> 1단계|`2023-02-28` ~ `2023-03-03`|[repository 1](https://github.com/hyena0608/java-blackjack/tree/step01)|[pull request 1](https://github.com/woowacourse/java-blackjack/pull/441)|[회고 1](https://programming-hyena.tistory.com/12)
 |사다리 타기 <br> 2단계|`2023-02-17` ~ `2023-02-27`|[repository 2](https://github.com/hyena0608/java-ladder/tree/hyena0608-step02)|[pull request 2](https://github.com/woowacourse/java-ladder/pull/161)|[회고 2](https://programming-hyena.tistory.com/6)
 |사다리 타기 <br> 1단계|`2023-02-14` ~ `2023-02-16`|[repository 1](https://github.com/hyena0608/java-ladder/tree/hyena0608-step01)|[pull request 1](https://github.com/woowacourse/java-ladder/pull/133)|[회고 1](https://programming-hyena.tistory.com/5)
