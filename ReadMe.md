@@ -1,10 +1,17 @@
 # 🐶 우아한 테크코스 5기 기록
 
+## ✏️ 스터디
+
+| study | Period | Repository |
+|:-----:|:-----:|:---:|
+|프롤로그 로드맵 스터디|`2023-03-20` ~ `ing`|[2023-Prolog-RoadMap](https://github.com/woowacourse-study/2023-Prolog-RoadMap)|
+|이펙티브 자바 스터디|`2023-02-20` ~ `ing`|[2023-effective-java-study](https://github.com/woowacourse-study/2023-effective-java-study)|
+
 ## 👊 레벨 인터뷰
 
-| Project | Period | 회고 |
+| Level | Period | 회고 |
 |:-----:|:-----:|:---:|
-|Level 1|`2023-03-29` ~ `2023-03-29`|[인터뷰 회고](https://programming-hyena.tistory.com/30)|
+|1|`2023-03-29` ~ `2023-03-29`|[인터뷰 회고](https://programming-hyena.tistory.com/30)|
 
 ## 😉 Level 1
 
