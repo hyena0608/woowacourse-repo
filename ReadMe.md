@@ -5,13 +5,25 @@
 | study | Period | Repository |
 |:-----:|:-----:|:---:|
 |프롤로그 로드맵 스터디|`2023-03-20` ~ `ing`|[2023-Prolog-RoadMap](https://github.com/woowacourse-study/2023-Prolog-RoadMap)|
-|이펙티브 자바 스터디|`2023-02-20` ~ `ing`|[2023-effective-java-study](https://github.com/woowacourse-study/2023-effective-java-study)|
+|이펙티브 자바 스터디|`2023-02-20` ~ `2023-04-14`|[2023-effective-java-study](https://github.com/woowacourse-study/2023-effective-java-study)|
+
+<br/>
 
 ## 👊 레벨 인터뷰
 
 | Level | Period | 회고 |
 |:-----:|:-----:|:---:|
 |1|`2023-03-29` ~ `2023-03-29`|[인터뷰 회고](https://programming-hyena.tistory.com/30)|
+
+<br/>
+
+## 😋 Level 2
+
+| Project | Period | Repository | Pull Request & Review | 회고 |
+|:-----:|:-----:|:---:|:---:|:---:|
+|웹 자동차 경주 <br> 1단계|`2023-04-11` ~ `2023-04-13`|[repository 1](https://github.com/hyena0608/jwp-racingcar/tree/step1)|[pull request 1](https://github.com/woowacourse/jwp-racingcar/pull/80)|[회고 1]()
+
+<br/>
 
 ## 😉 Level 1
 
