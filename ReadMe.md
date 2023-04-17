@@ -21,7 +21,7 @@
 
 | Project | Period | Repository | Pull Request & Review | 회고 |
 |:-----:|:-----:|:---:|:---:|:---:|
-|웹 자동차 경주 <br> 1단계|`2023-04-11` ~ `2023-04-13`|[repository 1](https://github.com/hyena0608/jwp-racingcar/tree/step1)|[pull request 1](https://github.com/woowacourse/jwp-racingcar/pull/80)|[회고 1]()
+|웹 자동차 경주 <br> 1단계|`2023-04-11` ~ `2023-04-13`|[repository 1](https://github.com/hyena0608/jwp-racingcar/tree/step1)|[pull request 1](https://github.com/woowacourse/jwp-racingcar/pull/80)|[회고 1](https://programming-hyena.tistory.com/34)
 
 <br/>
 
