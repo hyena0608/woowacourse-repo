@@ -21,6 +21,10 @@
 
 | Project | Period | Repository | Pull Request & Review | 회고 |
 |:-----:|:-----:|:---:|:---:|:---:|
+|장바구니 <br> 협업|`2023-05-23` ~ `2023-06-05`|[repository](https://github.com/hyena0608/jwp-shopping-order/tree/step2)|[pull request](https://github.com/woowacourse/jwp-shopping-order/pull/31)|[회고]()
+|지하철 <br> 3단계|`2023-05-22` ~ `2023-05-22`|[repository 3](https://github.com/hyena0608/jwp-subway-path/tree/step3)|[pull request 3](https://github.com/woowacourse/jwp-subway-path/pull/211)|[회고 3](https://programming-hyena.tistory.com/46)
+|지하철 <br> 2단계|`2023-05-12` ~ `2023-05-22`|[repository 2](https://github.com/hyena0608/jwp-subway-path/tree/step2)|[pull request 2](https://github.com/woowacourse/jwp-subway-path/pull/129)|[회고 2]()
+|지하철 <br> 1단계|`2023-05-09` ~ `2023-05-11`|[repository 1](https://github.com/hyena0608/jwp-subway-path/tree/step1)|[pull request 1](https://github.com/woowacourse/jwp-subway-path/pull/90)|[회고 1]()
 |장바구니 <br> 2단계|`2023-04-28` ~ `2023-05-08`|[repository 2](https://github.com/hyena0608/jwp-shopping-cart/tree/step2)|[pull request 1](https://github.com/woowacourse/jwp-shopping-cart/pull/273)|[회고 2]()
 |장바구니 <br> 1단계|`2023-04-25` ~ `2023-04-27`|[repository 1](https://github.com/hyena0608/jwp-shopping-cart/tree/step1)|[pull request 1](https://github.com/woowacourse/jwp-shopping-cart/pull/228)|[회고 1]()
 |웹 자동차 경주 <br> 2단계|`2023-04-14` ~ `2023-04-24`|[repository 2](https://github.com/hyena0608/jwp-racingcar/tree/step2)|[pull request 2](https://github.com/woowacourse/jwp-racingcar/pull/151)|[회고 2](https://programming-hyena.tistory.com/34)
