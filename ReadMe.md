@@ -13,6 +13,7 @@
 
 | Level | Period | 회고 |
 |:-----:|:-----:|:---:|
+|2|`2023-04-11` ~ `2023-06-09`|[인터뷰 회고](https://programming-hyena.tistory.com/77)|
 |1|`2023-03-29` ~ `2023-03-29`|[인터뷰 회고](https://programming-hyena.tistory.com/30)|
 
 <br/>
